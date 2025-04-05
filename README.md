@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Menegussi Faria! 👋
 
-<!--
-**MenegussiT/MenegussiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python com experiência em automação de processos, desenvolvimento web com Django e integração de APIs REST. Apaixonado por transformar desafios complexos em soluções eficientes e escaláveis.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- **Linguagens**: Python
+- **Frameworks**: Django, Flask
+- **Automação**: Selenium, PyAutoGUI
+- **Banco de Dados**: PostgreSQL, SQLite
+- **Controle de Versão**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHub
+[![Estatísticas do GitHub de Felipe](https://github-readme-stats.vercel.app/api?username=MenegussiT&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/menegussi-felipe/)
